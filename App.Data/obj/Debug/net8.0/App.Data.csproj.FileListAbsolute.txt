@@ -1,0 +1,336 @@
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\appsettings.Development.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\appsettings.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.staticwebassets.runtime.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.exe
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.deps.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.runtimeconfig.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.pdb
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Azure.Core.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Azure.Identity.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Humanizer.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.ClientModel.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.CodeDom.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Text.Json.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.csproj.AssemblyReference.cache
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.AssemblyInfoInputs.cache
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.AssemblyInfo.cs
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.csproj.CoreCompileInputs.cache
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.MvcApplicationPartsAssemblyInfo.cache
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.RazorAssemblyInfo.cache
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.RazorAssemblyInfo.cs
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets.build.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets.development.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.App.Data.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.build.App.Data.props
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.Data.props
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.Data.props
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\scopedcss\bundle\App.Data.styles.css
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\scopedcss\projectbundle\App.Data.bundle.scp.css
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.csproj.Up2Date
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\refint\App.Data.dll
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.pdb
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.genruntimeconfig.cache
+D:\SiliconMade Backend\10,Hafta\ODEV\e-Ticaret\App.Data\obj\Debug\net8.0\ref\App.Data.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\appsettings.Development.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\appsettings.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.staticwebassets.runtime.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.exe
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.deps.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.runtimeconfig.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\App.Data.pdb
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Azure.Core.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Azure.Identity.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Humanizer.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.ClientModel.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.CodeDom.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Text.Json.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.csproj.AssemblyReference.cache
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.AssemblyInfoInputs.cache
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.AssemblyInfo.cs
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.csproj.CoreCompileInputs.cache
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.MvcApplicationPartsAssemblyInfo.cache
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.RazorAssemblyInfo.cache
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.RazorAssemblyInfo.cs
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets.build.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets.development.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.App.Data.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.build.App.Data.props
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.Data.props
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.Data.props
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\scopedcss\bundle\App.Data.styles.css
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\scopedcss\projectbundle\App.Data.bundle.scp.css
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.csproj.Up2Date
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\refint\App.Data.dll
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.pdb
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\App.Data.genruntimeconfig.cache
+D:\SiliconMade Backend\11.Hafta\Odev-11 database entity\e-Ticaret\App.Data\obj\Debug\net8.0\ref\App.Data.dll
